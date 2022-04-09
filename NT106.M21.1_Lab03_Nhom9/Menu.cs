@@ -10,11 +10,13 @@ using System.Windows.Forms;
 
 namespace NT106.M21._1_Lab03_Nhom9
 {
-    public partial class Form1 : Form
+    public partial class Menu : Form
     {
-        public Form1()
+        public Menu()
         {
             InitializeComponent();
         }
+
+       
     }
 }
